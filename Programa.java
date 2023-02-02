@@ -40,6 +40,7 @@ public class Programa {
 			System.out.println(i + ": " + vect[i]);
 			
 			}
+			// Quando eu coloco esse codigo "!= null" eu quero imprimir na tela apenas os espaços que tem dados no vetor.
 		}	
 
 		leia.close();
